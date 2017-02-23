@@ -1,6 +1,6 @@
 //@version=2
 
-strategy(title = "Strategy Code Example", shorttitle = "Strategy Code Example", overlay = true, pyramiding = 0, default_qty_type = strategy.percent_of_equity, default_qty_value = 10, currency = currency.GBP)
+strategy(title = "Strategy Code Example", shorttitle = "Strategy Code Example", overlay = true, pyramiding = 0, default_qty_type = strategy.percent_of_equity, default_qty_value = 10, currency = currency.USD)
 
 // Revision:        1
 // Author:          @JayRogers
